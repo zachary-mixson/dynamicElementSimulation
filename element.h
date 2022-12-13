@@ -24,11 +24,10 @@ public:
 
 private:
 
-	int elementSize;
+	int elementSize = 10;
 
 	int elementDensity;
 
 	int elementGravity;
 
 };
-
