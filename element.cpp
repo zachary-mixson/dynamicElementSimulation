@@ -2,6 +2,8 @@
 
 Element::Element()
 {
+	element.setSize(sf::Vector2f(elementSize, elementSize));
+	element.setFillColor(elementColor);
 
 }
 
