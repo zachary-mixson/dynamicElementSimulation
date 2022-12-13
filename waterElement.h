@@ -1,7 +1,6 @@
 #include "element.h"
 
-class WaterElement :
-    public Element
+class WaterElement : public Element
 {
 public:
     WaterElement();
